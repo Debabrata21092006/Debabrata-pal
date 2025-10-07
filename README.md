@@ -53,9 +53,7 @@ Add user authentication (login/signup)
 
 Deploy as a web app using Flask
 
-💻 How to Run
-# Clone this repository
-git clone https://github.com/yourusername/Contact-Book-App.git
+
 
 # Navigate to the folder
 cd Contact-Book-App
