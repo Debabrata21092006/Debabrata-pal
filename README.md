@@ -52,19 +52,7 @@ Integrate database (SQLite/MySQL) for large-scale storage
 Add user authentication (login/signup)
 
 Deploy as a web app using Flask
-
-
-
-# Navigate to the folder
-cd Contact-Book-App
-
-# Run the script
-python contact_book.py
-
-
-
 ❤️ About the Creator
-
 👨‍💻 Developed by Debabrata Pal
 🎓 B.Tech CSE (AI & ML) Student | 💡 Passionate about Python, ML, and Automation
 📫 Connect with me: LinkedIn Profile
